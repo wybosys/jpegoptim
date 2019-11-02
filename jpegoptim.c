@@ -35,6 +35,7 @@
 
 
 #define VERSIO "1.4.6"
+#define HOST_TYPE "unknown"
 #define COPYRIGHT  "Copyright (C) 1996-2018, Timo Kokkonen"
 
 
